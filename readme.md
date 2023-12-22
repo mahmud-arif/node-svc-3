@@ -20,7 +20,7 @@ Make sure you have the following software installed on your machine:
 
     ```bash
     git clone <repository-url>
-    cd movie-curd-app
+  
     ```
 
 2. Install dependencies:
